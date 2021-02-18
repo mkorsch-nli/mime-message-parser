@@ -26,5 +26,11 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
+    <scm>
+        <connection>scm:git:https://github.com/mkorsch-nli/mime-message-parser.git</connection>
+        <url>https://github.com/mkorsch-nli/mime-message-parser</url>
+        <tag>HEAD</tag>
+    </scm>
     
 </project>
